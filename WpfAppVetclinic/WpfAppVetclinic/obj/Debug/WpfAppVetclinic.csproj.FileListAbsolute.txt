@@ -1,0 +1,17 @@
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\bin\Debug\WpfAppVetclinic.exe.config
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\bin\Debug\WpfAppVetclinic.exe
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\bin\Debug\WpfAppVetclinic.pdb
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.csproj.AssemblyReference.cache
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\App.g.cs
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic_MarkupCompile.cache
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic_MarkupCompile.lref
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.g.resources
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.Properties.Resources.resources
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.csproj.GenerateResource.cache
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.csproj.CoreCompileInputs.cache
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.exe
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\WpfAppVetclinic.pdb
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\Auth.g.cs
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\Auth.baml
+C:\Users\ones\source\repos\WpfAppVetclinic\WpfAppVetclinic\obj\Debug\App.baml
